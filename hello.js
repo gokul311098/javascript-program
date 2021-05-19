@@ -1,3 +1,3 @@
-console.log('Hello, World!');
-alert('Hello, World!');
-document.write('Hello, World!');
+console.log('Hello, world!');
+alert('Hello, world!');
+document.write('Hello, world!');
