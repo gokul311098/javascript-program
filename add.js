@@ -10,7 +10,6 @@ console.log('The value of sum is ' + sum);
 const a = parseInt(prompt('Enter the value of a'));
 const b = parseInt(prompt('Enter the value of b'));
 
-
 const value = a + b;
 
 console.log(`The value of ${a} and ${b} is ${value}`);
