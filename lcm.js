@@ -1,3 +1,4 @@
+//using hcf
 var number1 = prompt('Enter the value of number1');
 var number2 = prompt('Enter the value of number2');
 
@@ -14,6 +15,8 @@ let lcm = (number1 * number2) /hcf;
 console.log(`The LCM of ${number1} and ${number2} are: ${lcm}`);
 
 
+
+//using while
 var num1 = prompt('Enter the value of num1');
 var num2 = prompt('Enter the value of num2');
 
