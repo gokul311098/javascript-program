@@ -3,7 +3,7 @@ var sum = 0;
 var i = 1;
 
 
-while(i <= number) {
+while (i <= number) {
     sum += i;
     i++;
 }
@@ -16,7 +16,7 @@ console.log(`The sum of natural number ${number} is ${sum}`);
 var num = prompt('Enter the value of number');
 var s = 0;
 
-for( let j = 1; j <= num; j++) {
+for (let j = 1; j <= num; j++) {
     s += j;
 }
 

@@ -2,10 +2,10 @@ var num1 = prompt('Enter the value of num1');
 var num2 = prompt('Enter the value of num2');
 var num3 = prompt('Enter the value of num3');
 
-if(num1 >= num2 && num1 >= num3) {
+if (num1 >= num2 && num1 >= num3) {
     console.log(`The largest number is ${num1}`);
 }
-else if(num2 >= num1 && num2 >= num3) {
+else if (num2 >= num1 && num2 >= num3) {
     console.log(`The largest number is ${num2}`);
 }
 else {
@@ -18,10 +18,10 @@ var n2 = prompt('Enter the value of n2');
 var n3 = prompt('enter the value of n3');
 var result;
 
-if(n1 >= n2 && n1 >= n3) {
+if (n1 >= n2 && n1 >= n3) {
     largest = n1;
 }
-else if(n2 >= n1 && n2 >= n3) {
+else if (n2 >= n1 && n2 >= n3) {
     largest = n2;
 }
 else {

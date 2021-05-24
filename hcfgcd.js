@@ -4,8 +4,8 @@ var number2 = prompt('Enter the value of number2');
 
 console.log(`The HCF are ${number1} and ${number2} are:`);
 
-while(number1 != number2) {
-    if(number1 > number2) {
+while (number1 != number2) {
+    if (number1 > number2) {
         number1 -= number2;
     }
     else {
@@ -23,9 +23,9 @@ var hcf;
 
 console.log(`The HCF are ${num1} and ${num2} are:`);
 
-for(let i = 1; i <= num1 && i <= num2; i++) {
+for (let i = 1; i <= num1 && i <= num2; i++) {
 
-    if(num1 % i == 0 && num2 % i == 0) {
+    if (num1 % i == 0 && num2 % i == 0) {
         hcf = i;
     }
 }

@@ -5,20 +5,20 @@ var result;
 
 
 
-if(operator == '+') {
+if (operator == '+') {
     result = number1 + number2;
 }
-else if(operator == '-') {
+else if (operator == '-') {
     result = number1 - number2;
 }
-else if(operator == '*') {
+else if (operator == '*') {
     result = number1 * number2;
 }
 else {
     result = number1 / number2;
 }
 
-console.log(`The result of ${number1} ${operator} ${number2} = ${result}`); 
+console.log(`The result of ${number1} ${operator} ${number2} = ${result}`);
 
 
 //using switch
@@ -28,7 +28,7 @@ var num2 = parseInt(prompt('Enter the value of num2'));
 var res;
 
 
-switch(oper) {
+switch (oper) {
     case '+':
         res = num1 + num2;
         break;
@@ -43,7 +43,7 @@ switch(oper) {
         break;
     default:
         console.log('Not found');
-        break;    
+        break;
 }
 
 console.log(`The result of ${num1} ${oper} ${num2} = ${res}`);

@@ -6,7 +6,7 @@ var result1 = number1 % 10;
 var result2 = number2 % 10;
 var result3 = number3 % 10;
 
-if(result1 == result2 && result1 == result3) {
+if (result1 == result2 && result1 == result3) {
     console.log(`${number1}, ${number2} and ${number3} have same last digits`);
 }
 else {
