@@ -18,7 +18,7 @@ else {
     result = number1 / number2;
 }
 
-console.log(`The result of ${number1} and ${number2} is ${result}`); 
+console.log(`The result of ${number1} ${operator} ${number2} = ${result}`); 
 
 
 //using switch
@@ -46,4 +46,4 @@ switch(oper) {
         break;    
 }
 
-console.log(`The result of ${num1} and ${num2} is ${res}`);
+console.log(`The result of ${num1} ${oper} ${num2} = ${res}`);
