@@ -12,3 +12,10 @@ while (number != 0) {
 }
 
 console.log(`The binary value of ${value} is ${binary}`);
+
+
+//using toString()
+
+var number1 = parseInt(prompt('Enter thr value of number1'));
+var result = number1.toString(2);
+console.log(`The binary value of ${number1} is ${result}`);
