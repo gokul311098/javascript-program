@@ -13,6 +13,6 @@ const person1 = {
     age: 23
 }
 
-person1.gender = 'female';
+person1['gender'] = 'female';
 
 console.log(person1);
