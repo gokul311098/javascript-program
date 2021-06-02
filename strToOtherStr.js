@@ -24,4 +24,3 @@ if (result1) {
 else {
     console.log('The string does not start with "he".');
 }
-
