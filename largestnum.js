@@ -12,6 +12,7 @@ else {
     console.log(`The largest number is ${num3}`);
 }
 
+
 //using variable
 var n1 = prompt('Enter the value of n1');
 var n2 = prompt('Enter the value of n2');
