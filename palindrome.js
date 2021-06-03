@@ -43,7 +43,6 @@ console.log(value);
 
 
 
-
 //find string
 function palindrome(str) {
     let len = str.length;
