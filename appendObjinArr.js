@@ -26,7 +26,7 @@ function insertObject1(arr1, obj1) {
     console.log(arr1);
 }
 
-let array1 = ['hi', 'hello'];
+let array1 = ['Hi', 'Hello'];
 
 let object1 = {
     name: 'sam',
