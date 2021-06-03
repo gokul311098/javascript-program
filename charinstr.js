@@ -4,6 +4,7 @@ const regex = string.replace(/a/g, 'A');
 console.log(regex);
 
 
+
 //using built-in function
 const string1 = 'Javascript Programming Language';
 
