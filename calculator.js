@@ -4,7 +4,6 @@ var number2 = parseInt(prompt('Enter the value of number2'));
 var result;
 
 
-
 if (operator == '+') {
     result = number1 + number2;
 }
