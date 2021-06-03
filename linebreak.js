@@ -5,7 +5,7 @@ To Learn javascript Programming Language`;
 
 const result = string.split('\n').join('<br>');
 
-console.log(string);                
+console.log(string);
 console.log(result);
 
 
