@@ -19,6 +19,7 @@ value.forEach(element => {
 
 value.forEach(myfunction)
 
+
 function myfunction(item) {
     console.log(item);
 }
