@@ -9,7 +9,6 @@ else {
     }
 }
 
-
 function fibonaci(num) {
     if (num < 2) {
         return num;
