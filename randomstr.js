@@ -5,7 +5,7 @@ function randomString(length) {
     for (let i = 0; i < length; i++) {
         result += characters.charAt(Math.random() * characters.length);
     }
-    console.log(result);    
+    console.log(result);
 }
 
 const characters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
