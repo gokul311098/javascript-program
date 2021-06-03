@@ -6,7 +6,7 @@ const person = {
 
 let count = 0;
 
-for ( let key in person) {
+for (let key in person) {
 
     count++;
     console.log(key);
@@ -20,7 +20,7 @@ const person1 = {
     name: "sam",
     age: 32,
     gender: 'male',
-    greet: function() {
+    greet: function () {
         return 'Hi'
     }
 }
