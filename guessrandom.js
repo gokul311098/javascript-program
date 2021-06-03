@@ -1,4 +1,5 @@
 function guessnum() {
+    
     let number = parseInt(prompt('Enter the value of number'));
 
     let random = Math.floor(Math.random() * (10 - 1) + 1);
