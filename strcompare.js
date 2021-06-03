@@ -11,6 +11,7 @@ else {
 }
 
 
+//using regexp
 const string3 = 'Javascript Program';
 const string4 = 'javascript program';
 
@@ -26,7 +27,7 @@ else {
 }
 
 
-
+//using built-in function
 const string5 = 'JavaScript Program';
 const string6 = 'javascript program';
 
