@@ -1,3 +1,4 @@
+//using for loop
 function removearray(arr, n) {
     let newArray = [];
 
