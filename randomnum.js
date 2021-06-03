@@ -6,6 +6,7 @@ var value = Math.random() * (max - min + 1) + min;
 console.log(`The random value between ${min} and ${max} is ${value}`);
 
 
+
 //using function
 function random() {
     return Math.floor(Math.random() * (10 - 1)) + 1;
