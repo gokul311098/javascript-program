@@ -11,6 +11,7 @@ cloneperson.name = 'peter';
 console.log(cloneperson);
 
 
+
 //using spreed oper
 const person1 = {
     name: 'sam',
