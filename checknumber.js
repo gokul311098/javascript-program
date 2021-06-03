@@ -11,6 +11,7 @@ else {
 }
 
 
+
 //using nested if...else
 var num = prompt('Enter the value of num');
 
