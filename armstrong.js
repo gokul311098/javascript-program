@@ -17,6 +17,7 @@ else {
 }
 
 
+
 //n digit
 var num = prompt('Enter the value of number');
 var s = 0;
