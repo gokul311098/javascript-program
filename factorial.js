@@ -1,4 +1,4 @@
-var a = prompt('Enter the value of a');
+var a = prompt('Enter the number');
 
 if (a < 0) {
     console.log(`${a} negative number does not exists factorial`);
