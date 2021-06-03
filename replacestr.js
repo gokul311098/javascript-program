@@ -4,6 +4,7 @@ var pattern = /java/i;
 var patt = /java/g;
 var pat = /java/gi;
 
+
 var new_string = string.replace(pattern, "javascript");
 console.log(new_string);
 
