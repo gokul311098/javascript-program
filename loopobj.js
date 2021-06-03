@@ -5,7 +5,7 @@ const person = {
 }
 
 const student = {
-   gender: 'male'
+    gender: 'male'
 }
 
 person.__proto__ = student;
