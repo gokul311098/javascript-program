@@ -8,6 +8,7 @@ console.log('after changing');
 console.log(value);
 
 
+
 //using built-in function
 const string1 = 'Mr red has a red house and red car';
 
