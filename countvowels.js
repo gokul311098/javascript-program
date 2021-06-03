@@ -12,6 +12,7 @@ const value = vowels(string);
 console.log(value);
 
 
+
 //using for loop
 function Vowels(str) {
 
