@@ -20,7 +20,7 @@ console.log(slashFormat);
 let slashFormat1 = day + '/' + month + '/' + year;
 console.log(slashFormat1);
 
-let slashFormat2 = year + '/' + month+ '/' + day;
+let slashFormat2 = year + '/' + month + '/' + day;
 console.log(slashFormat2);
 
 let dashFormat = month + '-' + day + '-' + year;
