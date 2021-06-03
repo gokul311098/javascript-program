@@ -29,7 +29,7 @@ function insertElement1() {
 
     for (let i = array1.length; i > index1; i--) {
 
-        array1[i] = array1[i-1];
+        array1[i] = array1[i - 1];
     }
     array1[index1] = element1;
 
