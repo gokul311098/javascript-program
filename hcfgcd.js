@@ -16,6 +16,7 @@ while (number1 != number2) {
 console.log(number1);
 
 
+
 //using for loop
 var num1 = prompt('Enter the value of num1');
 var num2 = prompt('Enter the value of num2');
