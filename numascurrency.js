@@ -6,6 +6,7 @@ console.log(value);
 
 //using toLocalString
 const number2 = (2500).toLocaleString('en-US', {
+    
     style: 'currency',
     currency: 'USD'
 });
