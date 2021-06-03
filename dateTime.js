@@ -4,5 +4,5 @@ const d = date.toDateString();
 
 const t = date.toTimeString();
 
-console.log('DATE:',d);
-console.log('TIME:',t);
+console.log('DATE:', d);
+console.log('TIME:', t);
