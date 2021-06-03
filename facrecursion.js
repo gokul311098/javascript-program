@@ -8,6 +8,7 @@ else {
     console.log(`The factorial of ${number} is ${result}`);
 }
 
+
 function factorial(num) {
     if (num == 0) {
         return 1;
