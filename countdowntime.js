@@ -17,7 +17,7 @@ let x = setInterval(function () {
 
     if (timeLeft < 0) {
         clearInterval(x);
-        console.log('countDown Finished');
+        console.log('CountDown Finished');
     }
 
 }, 1000);
