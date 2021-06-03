@@ -3,7 +3,7 @@ const Person = {
     age: 40,
     gender: 'male',
     hobbies: ['reading', 'coding'],
-    greet: function() {
+    greet: function () {
         return 'Hi everyone'
     },
 }
