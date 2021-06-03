@@ -15,7 +15,7 @@ for (let i = 0; i < deck.length; i++) {
     let temp = deck[i];
     deck[i] = deck[j];
     deck[j] = temp;
-} 
+}
 
 console.log('The random shuffle cards are:')
 
