@@ -37,7 +37,6 @@ function Character(str) {
     }
 }
 
-
 const string = prompt("enter the string");
 Character(string);
 
