@@ -24,6 +24,6 @@ const student1 = {
     gender: 'male'
 }
 
-const value1 = {...person1, ...student1}
+const value1 = { ...person1, ...student1 }
 
 console.log(value1);
