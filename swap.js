@@ -21,6 +21,7 @@ console.log(`The value of swap variable a1 is ${a1}`);
 console.log(`The value of swap variable b1 is ${b1}`);
 
 
+
 //using arithmetic operation
 var a2 = parseInt(prompt('Enter the value of a2'));
 var b2 = parseInt(prompt('Enter the value of b2'));
