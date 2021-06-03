@@ -9,7 +9,7 @@ console.log(person);
 
 
 const person1 = {
-    name: 'lilly',
+    name: 'Lilly',
     age: 23
 }
 
