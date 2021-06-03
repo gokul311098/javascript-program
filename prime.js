@@ -5,8 +5,11 @@ if (number == 1) {
     console.log(`${number} is neither prime nor composite`);
 }
 else if (number > 1) {
+
     for (let i = 2; i < number; i++) {
+
         if (number % i == 0) {
+            
             isprime = false;
             break;
         }
