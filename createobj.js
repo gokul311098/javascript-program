@@ -60,6 +60,7 @@ const person3 = new Person("lilly", 23, 'female', 'leasoning music');
 
 
 console.log(person1.name);
+console.log(person1.age);
 console.log(person1.gender);
 console.log(person2.name);
 console.log(person2.gender);
