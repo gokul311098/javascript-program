@@ -5,6 +5,7 @@ const value = (base * height) / 2;
 console.log(`The area of triangle is ${value}`);
 
 
+
 //Known three sides
 const side1 = parseInt(prompt('Enter the value of side1'));
 const side2 = parseInt(prompt('Enter the value of side2'));
