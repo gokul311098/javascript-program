@@ -12,6 +12,7 @@ else {
 }
 
 
+//using regexp
 const string1 = 'hello world';
 
 const checkString1 = /^he/;
