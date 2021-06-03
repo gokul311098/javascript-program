@@ -12,6 +12,7 @@ else {
 }
 
 
+
 const array1 = ['you', 'will', 'learn', 'javascript'];
 
 console.log(array1);
