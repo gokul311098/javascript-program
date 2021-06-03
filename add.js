@@ -1,7 +1,7 @@
-const num1 = 5;
-const num2 = 3;
+const number1 = 5;
+const number2 = 3;
 
-const sum = num1 + num2;
+const sum = number1 + number2;
 
 console.log('The value of sum is ' + sum);
 
