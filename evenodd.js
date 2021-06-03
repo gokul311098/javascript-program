@@ -8,6 +8,7 @@ else {
 }
 
 
+
 //using ternary operator
 var num = prompt('Enter the value of num');
 
