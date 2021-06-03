@@ -10,6 +10,7 @@ for (let i = lower; i <= higher; i++) {
     let temp = i;
 
     while (temp > 0) {
+        
         let remainder = temp % 10;
 
         sum += remainder ** numberofdigits;
