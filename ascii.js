@@ -9,6 +9,7 @@ console.log(`The ascii value of ${string} is ${res}`);
 result = string.codePointAt(0);
 console.log(`The ascii value of ${string} is ${result}`);
 
+
 let sentence = "Hello-World!";
 
 for (let codePoint of sentence.slice(0,7)){
