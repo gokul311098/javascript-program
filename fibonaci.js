@@ -1,3 +1,4 @@
+//using while loop
 var number = prompt('Enter the value of number');
 var n1 = 0;
 var n2 = 1;
