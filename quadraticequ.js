@@ -4,6 +4,7 @@ var c = prompt('Enter the value of c');
 
 var root = b * b - 4 * a * c;
 
+
 if (root > 0) {
     let root1 = (-b + Math.sqrt(root)) / (2 * a);
     let root2 = (-b - Math.sqrt(root)) / (2 * a);
