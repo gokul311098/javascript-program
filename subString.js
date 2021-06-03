@@ -10,6 +10,7 @@ else {
 }
 
 
+//using indexOf
 const string1 = prompt('Enter the string');
 
 const checkString1 = prompt('Enter the check string');
