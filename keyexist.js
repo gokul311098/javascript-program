@@ -19,7 +19,7 @@ else {
 
 //using hasOwnProperty
 const person = {
-    name: 'sam',
+    name: 'Sam',
     age: 23,
     gender: 'male'
 }
