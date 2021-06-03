@@ -12,6 +12,7 @@ const value = upperCase(string);
 console.log(value);
 
 
+
 //using regexp
 function upperCase(str) {
 
