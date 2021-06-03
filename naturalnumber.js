@@ -12,7 +12,6 @@ console.log(`The sum of natural number ${number} is ${sum}`);
 
 
 //using for loop
-
 var num = prompt('Enter the value of number');
 var s = 0;
 
