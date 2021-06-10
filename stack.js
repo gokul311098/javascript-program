@@ -22,6 +22,10 @@ class Stack {
     clear() {
         return this.items = [];
     }
+
+    isEmpty() {
+        return this.items.length == 0;
+    }
 }
 
 let stack = new Stack();
@@ -40,3 +44,4 @@ stack.add(5);
 console.log(stack.items);
 console.log(stack.size());
 console.log(stack.clear());
+console.log(stack.isEmpty());
